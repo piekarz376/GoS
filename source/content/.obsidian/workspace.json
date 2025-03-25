@@ -1,62 +1,86 @@
 {
   "main": {
-    "id": "2e9225e34664efd4",
+    "id": "bd84e98866e2aac3",
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "f663d812298ce3d9",
         "type": "tabs",
+        "dimension": 32.54838709677419,
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "aa9faf677277900d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "2d8837e6263008e3",
+            "id": "47e322ac5314e879",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "Saltmarsh.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Saltmarsh"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "8bfa7020091b3f90",
+        "type": "tabs",
+        "dimension": 67.45161290322581,
+        "children": [
+          {
+            "id": "30a9d3e897e85ab3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Inistrid Copperlock.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inistrid Copperlock"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1243752a4df710bb",
+    "id": "87b1e5c6b61d9fb4",
     "type": "split",
     "children": [
       {
-        "id": "8a4c81639dc8783e",
+        "id": "d2280d148b22581f",
         "type": "tabs",
         "children": [
           {
-            "id": "b77831b90dd9f87b",
+            "id": "7f1f74340b935264",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "0829eb50dbb8a2b3",
+            "id": "f3b6d866ad1bf30a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,15 +91,19 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "436d75c49c949463",
+            "id": "e11d3b8ac20f7e21",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,20 +113,20 @@
     "width": 300
   },
   "right": {
-    "id": "ba1ec06a672fb227",
+    "id": "3cbe06b395587eec",
     "type": "split",
     "children": [
       {
-        "id": "6cea78168fbf9ccd",
+        "id": "7faaf5742df8cb1f",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa5a4c073617928",
+            "id": "1972c6a0374a0e70",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,40 +134,53 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "5acb7020384970a8",
+            "id": "f073baa2163b16df",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "f850ba7e9e699bea",
+            "id": "2645d3013c7bf6b0",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "2d9129bb8dcf7983",
+            "id": "4c8d28c236fb26d6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Some note.md"
-              }
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
             }
           }
         ]
@@ -151,20 +192,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "aa9faf677277900d",
   "lastOpenFiles": [
-    "category-folder/index.md",
-    "category-folder/Some note.md",
-    "index.md",
-    "category-folder"
+    "NPCs/Inistrid Copperlock.md",
+    "Lore/Rumors.md",
+    "Lore/Deities.md",
+    "NPCs/Anders Solmor.md",
+    "NPCs/Gellan Primewater.md",
+    "NPCs/Eda Oweland.md",
+    "Locations/Saltmarsh.md",
+    "Saltmarsh.md",
+    "Adventures/02_UnknownAdventure.md",
+    "Adventures/03_Unknown adventure.md",
+    "NPCs/Council of Saltmarsh.md",
+    "Timeline/Session Logs/Session 01.md",
+    "Adventures/01_Sinister_Secret_of_Saltmarsh.md",
+    "Locations/Sea of Swords.md",
+    "Locations/Dreadwood.md",
+    "Locations/Hool Marshes.md",
+    "Lore/Factions.md",
+    "Lore/History.md",
+    "Welcome.md",
+    "Untitled.canvas",
+    "2025-03-25.md",
+    "Templates/Location Template.md",
+    "Timeline/Session Logs",
+    "Timeline",
+    "Templates/Session Template.md",
+    "Templates/NPC Template.md",
+    "Templates",
+    "NPCs",
+    "Lore",
+    "Locations",
+    "Adventures"
   ]
 }
