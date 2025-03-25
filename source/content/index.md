@@ -1,7 +1,5 @@
 ---
 title: My GitHub Pages Notebook!
-
-BP
 ---
 
 Hello world!
