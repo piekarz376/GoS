@@ -2,7 +2,7 @@
 
 ## 🌍 Setting
 
-- [[Locations/Saltmarsh]]
+- [[Saltmarsh region]]
 - [[Dreadwood]]
 - [[Factions]]
 - [[Rumors]]
