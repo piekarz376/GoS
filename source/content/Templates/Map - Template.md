@@ -1,13 +1,4 @@
----
-mapCalc1: NaN
----
-# Saltmarsh
-
-A sleepy fishing village with growing tensions between traditionalists and loyalists.
-
-## Key Locations
-[[City of Saltmarsh]]
-
+````
 ---
 map_height_y: 2048  
 map_width_x: 1642  
@@ -16,7 +7,7 @@ scale_pixels_range: 25
 mapCalc1: 0  
 ---
 
-> [!NOTE]- City of Saltmarsh  
+> [!NOTE]- Quick Calculator  
 > Map Height in Pixels: `INPUT[number:map_height_y]`  
 > Map Width in Pixels: `INPUT[number:map_width_x]`  
 > lat: `VIEW[{map_height_y} / 2][math]`  
@@ -28,9 +19,9 @@ mapCalc1: 0
 
 
 ```leaflet  
-id: City_of_Saltmarsh ### Must be unique with no spaces  
-image: [[saltmarsh.webp]] ### Link to the map image file. Do not add a ! in front of the image  
-bounds: [[0,0], [3338, 2550]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
+id: MapCalcExample ### Must be unique with no spaces  
+image: [[Map - Regional map of Lampoteuo.png]] ### Link to the map image file. Do not add a ! in front of the image  
+bounds: [[0,0], [2048, 1642]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
 height: 850px ### Size of the leaflet embed in px on your screen  
 width: 95% ### Size of the leaflet embed in your note  
 lat: 1024 ### To center the map, make this half of the map height.  
@@ -44,3 +35,4 @@ scale: 0.09328358208955223 ### Real units/px (resolution) of your map
 recenter: false  
 darkmode: false ### marker
 ```
+````

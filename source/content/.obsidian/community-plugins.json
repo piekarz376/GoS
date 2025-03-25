@@ -1,5 +1,6 @@
 [
   "obsidian-leaflet-plugin",
   "fantasy-name",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-meta-bind-plugin"
 ]
