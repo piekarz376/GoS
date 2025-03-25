@@ -25,14 +25,34 @@
             "id": "85be5b2757776632",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "obsidian-leaflet-map-view",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "Leaflet Map"
+            }
+          },
+          {
+            "id": "b851aa6853ffa70e",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Leaflet Map"
+            }
+          },
+          {
+            "id": "2b0f11f388e067ea",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Leaflet Map"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,8 +212,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85be5b2757776632",
+  "active": "2b0f11f388e067ea",
   "lastOpenFiles": [
+    "Locations/Saltmarsh/25. The Leap.md",
+    "Locations/Saltmarsh/4. Eliander's House.md",
+    "Locations/Saltmarsh/9. Green Market.md",
+    "Locations/Saltmarsh/14. Council Hall.md",
+    "Locations/Saltmarsh/16. Primewater Mansion.md",
+    "Locations/Saltmarsh/13. Snapping Line.md",
+    "Locations/Saltmarsh/10. Sharkfin Bridge.md",
+    "Locations/Saltmarsh/12. Hoolwatch Tower.md",
+    "Timeline/Session Logs/Session 01.md",
     "Locations/Hool Marshes.md",
     "Locations/Saltmarsh region.md",
     "Locations/City of Saltmarsh.md",
@@ -210,16 +239,7 @@
     "Locations/Saltmarsh/28. Winston's Store.md",
     "Locations/Saltmarsh/27. Saltmarsh cementery.md",
     "Locations/Saltmarsh/26. Temple of Procan.md",
-    "Locations/Saltmarsh/25. The Leap.md",
     "Locations/Saltmarsh/24. Crabber's Cove.md",
-    "Locations/Saltmarsh/23. Carpeneter's Guildhall.md",
-    "Locations/Saltmarsh/22. Ingo the Drover's House.md",
-    "Locations/Saltmarsh/21. Mariners Guildhall.md",
-    "Locations/Saltmarsh/18. Fishmonger's Plants.md",
-    "Locations/Saltmarsh/16. Primewater Mansion.md",
-    "Locations/Saltmarsh/14. Council Hall.md",
-    "Locations/Saltmarsh/13. Snapping Line.md",
-    "Locations/Saltmarsh/12. Hoolwatch Tower.md",
     "Locations/Saltmarsh",
     "Untitled.canvas",
     "Timeline/Session Logs",
