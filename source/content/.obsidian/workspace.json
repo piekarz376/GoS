@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Saltmarsh/31. Daliah's Apothecary.md",
+                "file": "Locations/Saltmarsh/33. Hollylove's Vetrerinary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "31. Daliah's Apothecary"
+              "title": "33. Hollylove's Vetrerinary"
             }
           }
         ],
@@ -198,8 +198,10 @@
   },
   "active": "85be5b2757776632",
   "lastOpenFiles": [
-    "Locations/Saltmarsh/30. Standing Stones.md",
+    "Locations/Saltmarsh/32. Saltmarsh Orphanage.md",
+    "Locations/Saltmarsh/33. Hollylove's Vetrerinary.md",
     "Locations/Saltmarsh/31. Daliah's Apothecary.md",
+    "Locations/Saltmarsh/30. Standing Stones.md",
     "Locations/Saltmarsh/29. Sea Grove of Obad-Hai.md",
     "Locations/Saltmarsh/28. Winston's Store.md",
     "Locations/Saltmarsh/27. Saltmarsh cementery.md",
@@ -222,8 +224,6 @@
     "Locations/Saltmarsh/11. Kester's Leather Goods.md",
     "Locations/Saltmarsh/10. Sharkfin Bridge.md",
     "Locations/Saltmarsh/9. Green Market.md",
-    "Locations/Saltmarsh/8. Empty Net.md",
-    "Locations/Saltmarsh/7. Faithful Quatermaster of Iuz.md",
     "Locations/Saltmarsh",
     "Untitled.canvas",
     "Timeline/Session Logs",
