@@ -1,5 +1,7 @@
 ---
 mapCalc1: NaN
+map_height_y: 
+map: 
 ---
 # Saltmarsh
 
@@ -9,8 +11,8 @@ A sleepy fishing village with growing tensions between traditionalists and loyal
 [[City of Saltmarsh]]
 
 ---
-map_height_y: 2048  
-map_width_x: 1642  
+map_height_y: 3338  
+map_width_x: 2550  
 scale_pixels: 268  
 scale_pixels_range: 25  
 mapCalc1: 0  
